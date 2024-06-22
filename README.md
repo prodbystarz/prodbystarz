@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @prodbystarz
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning c++ and lua
+- 💞️ Languages I know: JavaScript, TypeScript, Python, PicoCSS, C#, discord.py/js, and more
+- 📫 How to reach me, you can contact me on discord @vaprhydro or @prodbystarz on Instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love money
