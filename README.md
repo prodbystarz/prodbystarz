@@ -2,5 +2,5 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning rust
 - 💞️ Languages I know: JavaScript, TypeScript, Python, PicoCSS, C#, discord.py/js, C++, Lua, and more
-- 📫 How to reach me, you can contact me on discord @vaprhydro or @prodbystarz on Instagram
+- 📫 How to reach me, you can contact me on discord @veniceuser or @prodbystarz on Instagram
 - 😄 Pronouns: he/him
