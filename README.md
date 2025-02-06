@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prodbystarz
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning C++
 - 💞️ Languages I know: JavaScript, TypeScript, Python, PicoCSS, C#, discord.py/js, C++, Lua, and more
 - 📫 How to reach me, you can contact me on discord @veniceuser or @prodbystarz on Instagram
 - 😄 Pronouns: he/him
